@@ -1,4 +1,4 @@
-# HACHATHON
+# 레스토랑 방문객 예측
 
 
 ## Hachathon
