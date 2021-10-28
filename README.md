@@ -9,9 +9,10 @@
 
 ## Team
 9해조
-- 박은영: EDA
+- 박은영: [EDA1](),[EDA2]()
 - 김준일: Modeling
 - 황동호: EDA
+- [최종 제출 파일](https://github.com/p2yeong/Recruit-Restaurant-Visitor-Forecasting/blob/main/hackathon_1st/%5BModeling%5DHackathon_9_v4.ipynb)
 
 ## Timeline
 <ul>대회 기간: 2021.08.04(수) ~ 2021.08.06(금) </ul><ul>팀별 발표 및 시상: 2021.08.06(금)</ul>
