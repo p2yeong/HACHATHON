@@ -8,7 +8,10 @@
 [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
 
 ## Team
-9해조(박은영, 김준일, 황동호)
+9해조
+- 박은영: EDA
+- 김준일: Modeling
+- 황동호: EDA
 
 ## Timeline
 <ul>대회 기간: 2021.08.04(수) ~ 2021.08.06(금) </ul><ul>팀별 발표 및 시상: 2021.08.06(금)</ul>
