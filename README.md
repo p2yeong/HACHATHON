@@ -23,7 +23,7 @@
 ## Evaluation
 <ul> EDA 및 Visualization이 충실히 수행되었는가? (25%)</ul> <ul> 데이터 전처리가 적절히 수행되었는가? (25%)</ul> <ul> 데이터 전처리가 적절히 수행되었는가? (25%)</ul> <ul> Public Score가 우수한가? (10%)</ul> <ul> 발표 준비 및 태도 (15%)</ul>
 
-## Rank
+## Submission Score
 ![Rank](https://github.com/p2yeong/AIFFEL_1st_Hachathon/blob/main/hackathon_1st/submission_score.png)
 
 ## Prizes
