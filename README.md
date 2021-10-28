@@ -9,7 +9,7 @@
 
 ## Team
 9해조
-- 박은영: [EDA1](),[EDA2]()
+- 박은영: [EDA1](https://github.com/p2yeong/Recruit-Restaurant-Visitor-Forecasting/blob/main/hackathon_1st/%5BEDA%5DRestaurant%20Visitor%20Forecasting.ipynb),[EDA2](https://github.com/p2yeong/Recruit-Restaurant-Visitor-Forecasting/blob/main/hackathon_1st/%5BEDA%5DRestaurant_visitor_Forecasting_all.ipynb)
 - 김준일: Modeling
 - 황동호: EDA
 - [최종 제출 파일](https://github.com/p2yeong/Recruit-Restaurant-Visitor-Forecasting/blob/main/hackathon_1st/%5BModeling%5DHackathon_9_v4.ipynb)
